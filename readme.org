@@ -1,6 +1,6 @@
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
 #+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
-#+OPTIONS: email:nil f:t inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
 #+OPTIONS: tasks:t tex:t timestamp:t title:t toc:t todo:t |:t
 #+TITLE: README
 #+SUBTITLE: This is not fracking piano
@@ -13,6 +13,11 @@
 #+CREATOR: Emacs 26.3 (Org mode 9.1.9)
 
 * Piano
-  - Ett skämt.
-  - Ett piano från en bild på Lantmäteriet.
-  - Kör hacket i en browser.
+  - Det här är ett skämt.
+  - Jag blev retade mig på att de som gjorde reklam för en spelning på min
+    arbetsplats inte kunde rita ett piano.
+    #+ATTR_LATEX: :width 6cm
+    #+ATTR_HTML: :width 200pix 
+    [[file:torsdagston.jpg]]
+  - Bara öppna hacket (tinafp.html) i en browser...så får du höra ut ett sånt
+    piano skulle bete sig 😃
